@@ -1,2 +1,0 @@
-# PipelineExample
-Testing Azure Pipelines
